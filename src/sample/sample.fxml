@@ -14,7 +14,7 @@
             <Font size="24.0" />
          </font>
       </Label>
-      <Label fx:id="lbltitulo" layoutX="97.0" layoutY="93.0" text="Inserte Nombre" />
+      <Label fx:id="lbltitulo" layoutX="97.0" layoutY="93.0" text="Inserte Numero" />
       <TextField fx:id="txtEdad" layoutX="76.0" layoutY="124.0" />
       <Button layoutX="263.0" layoutY="124.0" mnemonicParsing="false" onAction="#evento1" text="Aceptar" />
    </children>
