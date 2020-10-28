@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Libreriacalculos2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Libreriacalculos2_jar</output-path>
+    <root id="archive" name="Libreriacalculos2.jar">
+      <element id="module-output" name="Libreriacalculos2" />
+    </root>
+  </artifact>
+</component>
